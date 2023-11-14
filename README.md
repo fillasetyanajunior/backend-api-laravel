@@ -25,3 +25,8 @@ Bagi yang menggunakan laragon tidak perlu menjalankan perintah ini
 ```
 $ php artisan serve
 ```
+
+# Postman
+link: https://api.postman.com/collections/28869600-1207e0ce-25b1-4e2f-a98a-bb02c151cdfd?access_key=PMAT-01HF5PTBMAX6Q0619GRQRFWB02
+
+![image](https://github.com/fillasetyanajunior/backend-api-laravel/assets/62229603/26d61abd-f41a-4f2f-8d36-fec63b28b061)
